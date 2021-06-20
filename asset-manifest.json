@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/electrum-it/static/css/main.dece9989.chunk.css",
+    "main.js": "/electrum-it/static/js/main.3dc02515.chunk.js",
+    "main.js.map": "/electrum-it/static/js/main.3dc02515.chunk.js.map",
+    "runtime-main.js": "/electrum-it/static/js/runtime-main.8b225531.js",
+    "runtime-main.js.map": "/electrum-it/static/js/runtime-main.8b225531.js.map",
+    "static/js/2.80499be0.chunk.js": "/electrum-it/static/js/2.80499be0.chunk.js",
+    "static/js/2.80499be0.chunk.js.map": "/electrum-it/static/js/2.80499be0.chunk.js.map",
+    "static/js/3.79f948c0.chunk.js": "/electrum-it/static/js/3.79f948c0.chunk.js",
+    "static/js/3.79f948c0.chunk.js.map": "/electrum-it/static/js/3.79f948c0.chunk.js.map",
+    "index.html": "/electrum-it/index.html",
+    "static/css/main.dece9989.chunk.css.map": "/electrum-it/static/css/main.dece9989.chunk.css.map",
+    "static/js/2.80499be0.chunk.js.LICENSE.txt": "/electrum-it/static/js/2.80499be0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b225531.js",
+    "static/js/2.80499be0.chunk.js",
+    "static/css/main.dece9989.chunk.css",
+    "static/js/main.3dc02515.chunk.js"
+  ]
+}
